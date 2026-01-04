@@ -31,9 +31,22 @@ Currently exploring full stack web development, competitive programming, and app
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Enticoder">
 </p>
 
+<!-- Banners 2nd Phase -->
+<p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
+ <!-- Banners 2nd Phase -->
+
 <!-- Typewriting Introduction -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Fresher+Developer;Exploring+Frontend+and+Web+Development;Love+Coding+and+Marvel+Heroes)](https://git.io/typing-svg)
 
+<!-- Banners 3rd Phase : About Me -->
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+</p>
+ <!-- Banners 3rd Phase : About Me -->
+ 
 <!-- About Me -->
 <p align='left'>
 - 🔭 Bachelor of Science in Information Technology Graduate<br>
