@@ -49,6 +49,15 @@ C | C++ | C# | Java | Python
 ### 🧰 Tools & IDEs
 VS Code | Visual Studio | NetBeans | PyCharm | Android Studio | XAMPP  
 
+ </td>
+    <td>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120"/>
+</p>
+
+    </td>  
+
 ---
 
 ## 📺 YouTube – Learn Something
