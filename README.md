@@ -84,22 +84,21 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 #### 🌐 Networking & GIS Tools
-- Cisco (Basic Networking)
-- QGIS
+<img src="https://img.shields.io/badge/Cisco%20(Basic%20Networking)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 
 #### 🛠 Other Tools
-- REST API Basics
-- Responsive Design
-- Debugging
+<img src="https://img.shields.io/badge/REST%20API%20Basics-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-8E24AA?style=for-the-badge"/>
 
 #### 🖱 Tools & IDEs
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VSCode/visualstudiocode3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NetBeans/netbeans1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/XAMPP/xampp1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
 
 
 <!-- Social Links -->
@@ -117,10 +116,17 @@ Currently exploring full stack web development, competitive programming, and app
 <div align="center">
 <h2>📺 Latest YouTube Videos : <a href="https://www.youtube.com/@learnsomethings82">Learn Somethings</a></h2>
 
-[![Video 1](https://ytcards.demolab.com/?id=VIDEO_ID_1&title=Video+Title+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=VIDEO_ID_1)
-[![Video 2](https://ytcards.demolab.com/?id=VIDEO_ID_2&title=Video+Title+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=VIDEO_ID_2)
-[![Video 3](https://ytcards.demolab.com/?id=VIDEO_ID_3&title=Video+Title+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://www.youtube.com/watch?v=VIDEO_ID_3)
+[![How to Start Open-Source Contribution as a Beginner](https://ytcards.demolab.com/?id=GR2DdCtdjK8&title=How+to+Start+Open-Source+Contribution&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/GR2DdCtdjK8)
+
+[![Software Industry Internships & Tips](https://ytcards.demolab.com/?id=OZj0l1O3MSY&title=Software+Industry+Internships+%26+Tips&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/OZj0l1O3MSY)
+
+[![AI/ML Internship CV Tips](https://ytcards.demolab.com/?id=sBj5en0A9d4&title=AI%2FML+Internship+CV+Tips&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/sBj5en0A9d4)
+
 </div>
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+</p>
+
 
 <!-- Projects Section -->
 <div align='center'>
