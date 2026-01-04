@@ -24,13 +24,6 @@ Bachelor of Science in Information Technology Graduate.<br/>
 Currently exploring full stack web development, competitive programming, and app development.
 </div>
 
-<!-- Profile Views - Followers & Stars -->
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Enticoder&label=Profile%20views&color=0e75b6&style=flat" alt="Enticoder" /> <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enticoder"> 
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Enticoder">
-</p>
-
 <!-- Banners 2nd Phase -->
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
@@ -64,14 +57,8 @@ Currently exploring full stack web development, competitive programming, and app
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
+
 <!-- Skills Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"><i> Skills: </i>
-
-#### 🦖 Competitive Programming
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
-
 #### 📚 Frontend Development & Frameworks
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
@@ -90,6 +77,11 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/csharp1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+  
+#### 🦖 Competitive Programming
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 #### 🌐 Networking & GIS Tools
 - Cisco (Basic Networking)
