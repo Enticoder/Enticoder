@@ -61,15 +61,30 @@ Currently exploring full stack web development, competitive programming, and app
 <!-- Skills Section -->
 #### 📚 Frontend Development & Frameworks
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
 
 #### ⛏️ Backend Development & Database
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQL/sql1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
 
 #### 🐍 Programming Languages
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
@@ -122,11 +137,12 @@ Currently exploring full stack web development, competitive programming, and app
 
 [![AI/ML Internship CV Tips](https://ytcards.demolab.com/?id=sBj5en0A9d4&title=AI%2FML+Internship+CV+Tips&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/sBj5en0A9d4)
 
+<!--Spider-men Discussion-->
 </div>
 <p align='center'>
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
 </p>
-
+<!--Spider-men Discussion End here-->
 
 <!-- Projects Section -->
 <div align='center'>
