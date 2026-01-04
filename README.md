@@ -1,10 +1,10 @@
 <!-- Banner & Links -->
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
-  <a href="https://www.youtube.com/@learnsomethings82">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Learn+Somethings+YouTube" alt="Typing SVG"/>
-  </a>
-</div>
+## Hi there 👋
+
+<!-- Marvel Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=220&section=header&text=Hi%20There!%20I’m%20Suraj%20Gupta%20(Enticoder)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <div align="center">
   <a href="https://github.com/Enticoder/Updated-Resume-CV">
