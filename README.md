@@ -1,3 +1,8 @@
+This repository contains my **GitHub Profile README**, designed with a **Marvel (Spider-Man & Avengers) theme** to creatively present my technical skills, learning journey, and professional interests.
+
+I am a **fresher software enthusiast** actively seeking **junior-level roles** such as **Web Developer, Java Developer, Full-Stack Developer, SQL Developer, and other tech-related positions**. This profile highlights my **technology stack, tools, GitHub activity, and educational YouTube content**, all in one place.
+
+The goal of this README is to provide recruiters, collaborators, and fellow learners with a **clear, engaging, and well-structured overview** of my capabilities and growth mindset in software development.
 ## Hi there 👋
 
 <!--
@@ -14,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+> 🕸️ Inspired by Marvel heroes — always learning, building, and improving with responsibility.
+
