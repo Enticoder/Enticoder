@@ -97,13 +97,6 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 
 
-<!-- Marvel Hero Section -->
-<p align='center'>
-<img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="30%">
-<img src="https://media.giphy.com/media/8X6uBJKiYtPR9Y0CNV/giphy.gif" width="30%">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30%">
-</p>
-
 <!-- Social Links -->
 <div align="center">
 <h3>📞 Connect with me</h3>
