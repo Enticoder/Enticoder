@@ -47,7 +47,14 @@ Currently exploring full stack web development, competitive programming, and app
 <!-- Skills Section -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"><i> Skills: </i>
 
-#### 🖥 Frontend Development
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"> Skills
+
+#### 🦖 Competitive Programming
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+
+#### 📚 Frontend Development & Frameworks
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
@@ -59,7 +66,7 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQL/sql1.svg)
 
-#### 🦖 Programming Languages
+#### 🐍 Programming Languages
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/csharp1.svg)
@@ -67,10 +74,10 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
 
 #### 🌐 Networking & GIS Tools
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cisco/cisco1.svg) (Basic Networking)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/QGIS/qgis1.svg)
+- Cisco (Basic Networking)
+- QGIS
 
-#### 🛠 Other Tools & Skills
+#### 🛠 Other Tools
 - REST API Basics
 - Responsive Design
 - Debugging
@@ -82,6 +89,8 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/XAMPP/xampp1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+
 
 <!-- Marvel Hero Section -->
 <p align='center'>
