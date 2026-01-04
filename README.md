@@ -47,29 +47,41 @@ Currently exploring full stack web development, competitive programming, and app
 <!-- Skills Section -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"><i> Skills: </i>
 
-#### 🦖 Programming & Competitive Coding
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-
-#### 📚 Frontend Development
+#### 🖥 Frontend Development
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Responsive/Responsive1.svg)
 
-#### ⛏️ Backend & Database
+#### ⛏️ Backend Development & Database
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQL/sql1.svg)
 
-#### 🚦 Version Control & Tools
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+#### 🦖 Programming Languages
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/csharp1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+
+#### 🌐 Networking & GIS Tools
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Cisco/cisco1.svg) (Basic Networking)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/QGIS/qgis1.svg)
+
+#### 🛠 Other Tools & Skills
+- REST API Basics
+- Responsive Design
+- Debugging
+
+#### 🖱 Tools & IDEs
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VSCode/visualstudiocode3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NetBeans/netbeans1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/XAMPP/xampp1.svg)
 
 <!-- Marvel Hero Section -->
 <p align='center'>
