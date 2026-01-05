@@ -27,11 +27,11 @@ Currently exploring full stack web development, competitive programming, and app
 
 <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
+<!-- Profile Views - Followers & Stars -->
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
-<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
-<br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
+<img src="https://komarev.com/ghpvc/?username=Enticoder&label=Profile%20views&color=0e75b6&style=flat" alt="Enticoder" /> <br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enticoder"> 
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Enticoder">
 </p>
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
