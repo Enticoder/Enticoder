@@ -6,14 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0000ff&height=220&section=header&text=Hi%20There!%20I’m%20Suraj%20Gupta%20(Enticoder)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/Enticoder/Updated-Resume-CV">
-    <img src="https://img.shields.io/badge/My%20CV-%40Suraj-blue" width="200" height="35">
-  </a>
-  <a href="https://www.linkedin.com/in/suraj-gupta-843a02281">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue" width="240" height="42">
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/Enticoder/Updated-Resume-CV">
@@ -32,6 +24,17 @@ I am a <b>Fresher</b> looking for opportunities as a <b>Frontend, Web, Software,
 Bachelor of Science in Information Technology Graduate.<br/>
 Currently exploring full stack web development, competitive programming, and app development.
 </div>
+
+<!-- Profile Views - Waka Time Stats - Followers & Stars -->
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
+<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
+</p>
+
+ <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
 <!-- Banners 2nd Phase -->
 <p align='center'>
