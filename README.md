@@ -76,15 +76,23 @@ Currently exploring full stack web development, competitive programming, and app
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
+ 
+  #### 🎃 Languages
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
 
 #### 🐍 Programming Languages
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
@@ -107,12 +115,32 @@ Currently exploring full stack web development, competitive programming, and app
 <img src="https://img.shields.io/badge/Responsive%20Design-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Debugging-8E24AA?style=for-the-badge"/>
 
-#### 🖱 Tools & IDEs
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+
+ 
+  
+#### 🚦 Version Control & Documentation Tools
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contribution Stack -->
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+<!-- Contribution Statistics and Visuals -->
+<p align="center">
+<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumonta056&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+</p>
+<!-- Contribution Statistics and Visuals -->
+
+
 
 
 
