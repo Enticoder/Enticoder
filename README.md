@@ -96,8 +96,8 @@ Currently exploring full stack web development, competitive programming, and app
   #### 🎃 Languages
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
