@@ -92,12 +92,14 @@ Currently exploring full stack web development, competitive programming, and app
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
- 
-  #### 🎃 Languages
+
+
+#### 🎃 Programming Languages
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/csharp1.svg)
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
@@ -106,16 +108,6 @@ Currently exploring full stack web development, competitive programming, and app
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
 
-#### 🐍 Programming Languages
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/csharp1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-  
-#### 🦖 Competitive Programming
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 #### 🌐 Networking & GIS Tools
@@ -128,9 +120,6 @@ Currently exploring full stack web development, competitive programming, and app
 <img src="https://img.shields.io/badge/Debugging-8E24AA?style=for-the-badge"/>
 
 
-
- 
-  
 #### 🚦 Version Control & Documentation Tools
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
@@ -168,20 +157,30 @@ Currently exploring full stack web development, competitive programming, and app
 </div>
 
 <!-- YouTube Latest Videos -->
-<div align="center">
-<h2>📺 Latest YouTube Videos : <a href="https://www.youtube.com/@learnsomethings82">Learn Somethings</a></h2>
-
-[![How to Start Open-Source Contribution as a Beginner](https://ytcards.demolab.com/?id=GR2DdCtdjK8&title=How+to+Start+Open-Source+Contribution&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/GR2DdCtdjK8)
-
-[![Software Industry Internships & Tips](https://ytcards.demolab.com/?id=OZj0l1O3MSY&title=Software+Industry+Internships+%26+Tips&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/OZj0l1O3MSY)
-
-[![AI/ML Internship CV Tips](https://ytcards.demolab.com/?id=sBj5en0A9d4&title=AI%2FML+Internship+CV+Tips&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5)](https://youtu.be/sBj5en0A9d4)
-
-<!--Spider-men Discussion-->
-</div>
-<p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+<p align="center">
+  <a href="https://youtu.be/sfrfDJDESF8">
+    <img 
+      src="https://img.youtube.com/vi/sfrfDJDESF8/0.jpg" 
+      width="30%" 
+      style="margin: 0 14px; border-radius: 14px;" 
+    />
+  </a>
+  <a href="https://youtu.be/GR2DdCtdjK8">
+    <img 
+      src="https://img.youtube.com/vi/GR2DdCtdjK8/0.jpg" 
+      width="30%" 
+      style="margin: 0 14px; border-radius: 14px;" 
+    />
+  </a>
+  <a href="https://youtu.be/7_viSOIh8c8">
+    <img 
+      src="https://img.youtube.com/vi/7_viSOIh8c8/0.jpg" 
+      width="30%" 
+      style="margin: 0 14px; border-radius: 14px;" 
+    />
+  </a>
 </p>
+
 <!--Spider-men Discussion End here-->
 
 <!-- Projects Section -->
