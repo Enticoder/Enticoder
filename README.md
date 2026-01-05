@@ -9,10 +9,13 @@
 
 <div align="center">
   <a href="https://github.com/Enticoder/Updated-Resume-CV">
-    <img src="https://img.shields.io/badge/My%20CV-%40Suraj-blue" width="200" height="35">
+    <img src="https://img.shields.io/badge/My%20CV-Suraj%20Gupta-blue" width="200" height="42">
+  </a>
+  <a href="https://www.youtube.com/@learnsomethings82">
+    <img src="https://img.shields.io/badge/YouTube-Learn%20Somethings-red" width="240" height="42">
   </a>
   <a href="https://www.linkedin.com/in/suraj-gupta-843a02281">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue" width="240" height="42">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-brightgreen" width="225" height="42">
   </a>
 </div>
 
@@ -70,26 +73,26 @@ Currently exploring full stack web development, competitive programming, and app
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
+
 <!-- Skills Section -->
 #### 📚 Frontend Development & Frameworks
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+  
 
 
 #### ⛏️ Backend Development & Database
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
 
@@ -99,26 +102,17 @@ Currently exploring full stack web development, competitive programming, and app
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/csharp1.svg)
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
-#### 🌐 Networking & GIS Tools
-<img src="https://img.shields.io/badge/Cisco%20(Basic%20Networking)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 
-#### 🛠 Other Tools
-<img src="https://img.shields.io/badge/REST%20API%20Basics-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Debugging-8E24AA?style=for-the-badge"/>
-
+###  Tools
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
 
 #### 🚦 Version Control & Documentation Tools
 
@@ -156,35 +150,93 @@ Currently exploring full stack web development, competitive programming, and app
 </p>
 </div>
 
-<!-- YouTube Latest Videos -->
+<h2 align="center">📺 Latest YouTube Videos : <a href="https://www.youtube.com/@learnsomethings82">Learn Somethings</a></h2>
+
 <p align="center">
   <a href="https://youtu.be/sfrfDJDESF8">
     <img 
       src="https://img.youtube.com/vi/sfrfDJDESF8/0.jpg" 
       width="30%" 
-      style="margin: 0 14px; border-radius: 14px;" 
+      style="
+        margin: 0 18px;
+        border-radius: 16px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.06)'" 
+      onmouseout="this.style.transform='scale(1)'"
     />
   </a>
+
   <a href="https://youtu.be/GR2DdCtdjK8">
     <img 
       src="https://img.youtube.com/vi/GR2DdCtdjK8/0.jpg" 
       width="30%" 
-      style="margin: 0 14px; border-radius: 14px;" 
+      style="
+        margin: 0 18px;
+        border-radius: 16px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.06)'" 
+      onmouseout="this.style.transform='scale(1)'"
     />
   </a>
+
   <a href="https://youtu.be/7_viSOIh8c8">
     <img 
       src="https://img.youtube.com/vi/7_viSOIh8c8/0.jpg" 
       width="30%" 
-      style="margin: 0 14px; border-radius: 14px;" 
+      style="
+        margin: 0 18px;
+        border-radius: 16px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='scale(1.06)'" 
+      onmouseout="this.style.transform='scale(1)'"
     />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@learnsomethings82">
+    <img src="https://img.shields.io/badge/Subscribe%20Now-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF0000&center=true&vCenter=true&width=300&lines=🔥+New+Videos+Every+Week;🎥+Learn+Web+%26+Coding;🚀+Subscribe+for+More" />
+
+
+<!--Spider-men Discussion start here-->
+<!-- Footer -->
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+</p>
+<!-- Footer -->
+
 <!--Spider-men Discussion End here-->
 
 <!-- Projects Section -->
-<div align='center'>
-<h4>✨ Featured Projects</h4>
-[![Updated Resume CV](https://github-readme-stats.vercel.app/api/pin?username=Enticoder&repo=Updated-Resume-CV&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Enticoder/Updated-Resume-CV)
-</div>
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Enticoder/Updated-Resume-CV">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Enticoder&repo=Updated-Resume-CV&theme=tokyonight"
+    style="margin: 12px; border-radius: 14px;"
+  />
+</a>
+
+<a href="https://github.com/Enticoder">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Enticoder&repo=&theme=tokyonight"
+    style="margin: 12px; border-radius: 14px;"
+  />
+</a>
+
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
