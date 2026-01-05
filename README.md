@@ -109,7 +109,7 @@ Currently exploring full stack web development, competitive programming, and app
 
 
 
-###  Tools
+###  ⚙️ Tools
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)
