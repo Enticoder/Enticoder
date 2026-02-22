@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/Enticoder/Updated-Resume-CV">
+  <a href="Updated Resume 3a_.pdf">
     <img src="https://img.shields.io/badge/My%20CV-Suraj%20Gupta-blue" width="200" height="42">
   </a>
   <a href="https://www.youtube.com/@learnsomethings82">
@@ -41,8 +41,8 @@ Currently exploring full stack web development, competitive programming, and app
 
 <!-- Banners 2nd Phase -->
 <p align='center'>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+<img src="Gif & Imgs/Night_Working _PC.gif" width="320px" height="200">
+<img src="Gif & Imgs/Night_Working_PC2.gif" width="320px" height="200">
 </p>
  <!-- Banners 2nd Phase -->
 
@@ -51,7 +51,7 @@ Currently exploring full stack web development, competitive programming, and app
 
 <!-- Banners 3rd Phase : About Me -->
 <p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+<img align='right' src="Gif & Imgs/Working_on_PC.gif" width="35%">
 </p>
  <!-- Banners 3rd Phase : About Me -->
  
@@ -65,11 +65,11 @@ Currently exploring full stack web development, competitive programming, and app
 - ⚡ Interests : Competitive Programming, AI, Marvel Heroes 😏<br>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
+## <img src="Gif & Imgs/closing-bracketsgiphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+<img align='right' src="Gif & Imgs/Spidies_Droping.gif" width="40%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
@@ -123,12 +123,13 @@ Currently exploring full stack web development, competitive programming, and app
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="Gif & Imgs/Line Animation.gif">
 
 <!-- Contribution Stack -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+<h1 align="center"><b><i><img src="Gif & Imgs/giphy_graph.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 <!-- Contribution Statistics and Visuals -->
 
+<!--🙋‍♂️i want to update here-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enticoder&theme=tokyo-night" />
 </p>
@@ -216,7 +217,7 @@ Currently exploring full stack web development, competitive programming, and app
 <!--Spider-men Discussion start here-->
 <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+<img align='center' src= "Gif & Imgs/Spidies_Discussion.gif" width="300px"  >
 </p>
 <!-- Footer -->
 
@@ -227,7 +228,7 @@ Currently exploring full stack web development, competitive programming, and app
 
 <p align="center">
 
-<a href="https://github.com/Enticoder/Updated-Resume-CV">
+<a href="Updated Resume 3a_.pdf">
   <img 
     src="https://github-readme-stats.vercel.app/api/pin/?username=Enticoder&repo=Updated-Resume-CV&theme=tokyonight"
     style="margin: 12px; border-radius: 14px;"
