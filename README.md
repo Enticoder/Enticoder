@@ -130,15 +130,19 @@ Currently exploring full stack web development, competitive programming, and app
 <!-- Contribution Statistics and Visuals -->
 
 <!--🙋‍♂️i want to update here-->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enticoder&theme=tokyo-night" />
-</p>
 
 <p align="center">
+  <img align="left" src="Gif & Imgs/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Enticoder&hide_border=true&theme=tokyonight" />
+  
+  <img align="left" src="Gif & Imgs/Wanda-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 </p>
 
 <!-- Contribution Statistics and Visuals -->
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enticoder&theme=tokyo-night" />
+</p>
 
 
 
@@ -244,4 +248,4 @@ Currently exploring full stack web development, competitive programming, and app
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="Gif & Imgs/Line Animation.gif">
