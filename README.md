@@ -136,7 +136,7 @@ Currently exploring full stack web development, competitive programming, and app
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Enticoder&hide_border=true&theme=tokyonight" />
   
-  <img align="left" src="Gif & Imgs/Wanda-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+  <img align="right" src="Gif & Imgs/Wanda-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 </p>
 
 <!-- Contribution Statistics and Visuals -->
